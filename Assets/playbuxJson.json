@@ -1,0 +1,284 @@
+{
+  "inventory": {
+    "Hat": {
+      "items": [
+        {
+          "name": "Hat 1",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "A stylish hat for everyday wear",
+          "image": "Image/messageImage_1698926367680_0",
+          "chain": "On",
+          "type": "Hat"
+        },
+        {
+          "name": "Hat 2",
+          "rarity": "R",
+          "collection": "Early Bird Quest",
+          "description": "A casual hat for sports activities",
+          "image": "Image/messageImage_1698926382301_0",
+          "chain": "Off",
+          "type": "Hat"
+        },
+        {
+          "name": "Hat 3",
+          "rarity": "N",
+          "collection": "None",
+          "description": "Another stylish hat for everyday wear",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "On",
+          "type": "Hat"
+        },
+        {
+          "name": "Hat 4",
+          "rarity": "SR",
+          "collection": "Ultra Collection",
+          "description": "A rare hat for collectors",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Hat"
+        }
+      ]
+    },
+    "Head": {
+      "items": [
+        {
+          "name": "Headgear 1",
+          "rarity": "SR",
+          "collection": "Ultra Collection",
+          "description": "Protective headgear for safety",
+          "image": "Image/messageImage_1698926385551_0",
+          "chain": "On",
+          "type": "Headgear"
+        },
+        {
+          "name": "Headgear 2",
+          "rarity": "R",
+          "collection": "Early Bird Quest",
+          "description": "Sports headgear for athletes",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Headgear"
+        },
+        {
+          "name": "Headgear 3",
+          "rarity": "N",
+          "collection": "None",
+          "description": "Casual headgear for everyday use",
+          "image": "Image/messageImage_1698926367680_0",
+          "chain": "On",
+          "type": "Headgear"
+        },
+        {
+          "name": "Headgear 4",
+          "rarity": "SSR",
+          "collection": "Ultra Collection",
+          "description": "An early bird headgear for achievers",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "Off",
+          "type": "Headgear"
+        }
+      ]
+    },
+    "Face": {
+      "items": [
+        {
+          "name": "Face mask 1",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "Protective face mask for health reasons",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "On",
+          "type": "Facemask"
+        },
+        {
+          "name": "Face mask 2",
+          "rarity": "SR",
+          "collection": "Special Collection",
+          "description": "A rare face mask for collectors",
+          "image": "Image/messageImage_1698926367680_0",
+          "chain": "Off",
+          "type": "Facemask"
+        },
+        {
+          "name": "Face mask 3",
+          "rarity": "N",
+          "collection": "None",
+          "description": "Another protective face mask for health reasons",
+          "image": "Image/messageImage_1698926382301_0",
+          "chain": "On",
+          "type": "Facemask"
+        },
+        {
+          "name": "Face mask 4",
+          "rarity": "R",
+          "collection": "Early Bird Quest",
+          "description": "Sports face mask for athletes",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Facemask"
+        }
+      ]
+    },
+    "Shirt": {
+      "items": [
+        {
+          "name": "Shirt 1",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "A casual shirt for everyday use",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "On",
+          "type": "Shirt"
+        },
+        {
+          "name": "Shirt 2",
+          "rarity": "R",
+          "collection": "Early Bird Quest",
+          "description": "Sports shirt for athletes",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Shirt"
+        },
+        {
+          "name": "Shirt 3",
+          "rarity": "SSR",
+          "collection": "None",
+          "description": "A rare shirt for collectors",
+          "image": "Image/messageImage_1698926385551_0",
+          "chain": "On",
+          "type": "Shirt"
+        },
+        {
+          "name": "Shirt 4",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "Another casual shirt for everyday use",
+          "image": "Image/messageImage_1698926382301_0",
+          "chain": "Off",
+          "type": "Shirt"
+        }
+      ]
+    },
+    "Pants": {
+      "items": [
+        {
+          "name": "Pants 1",
+          "rarity": "R",
+          "collection": "Ultra Collection",
+          "description": "Comfortable pants for outdoor activities",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "On",
+          "type": "Pants"
+        },
+        {
+          "name": "Pants 2",
+          "rarity": "N",
+          "collection": "None",
+          "description": "Casual pants for everyday use",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Pants"
+        },
+        {
+          "name": "Pants 3",
+          "rarity": "SSR",
+          "collection": "Early Bird Quest",
+          "description": "A rare pair of pants for collectors",
+          "image": "Image/messageImage_1698926367680_0",
+          "chain": "On",
+          "type": "Pants"
+        },
+        {
+          "name": "Pants 4",
+          "rarity": "SR",
+          "collection": "Ultra Collection",
+          "description": "Sports pants for athletes",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "Off",
+          "type": "Pants"
+        }
+      ]
+    },
+    "Back": {
+      "items": [
+        {
+          "name": "Backpack 1",
+          "rarity": "SR",
+          "collection": "Ultra Collection",
+          "description": "A durable backpack for traveling",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "On",
+          "type": "Backpack"
+        },
+        {
+          "name": "Backpack 2",
+          "rarity": "R",
+          "collection": "Outdoor Collection",
+          "description": "Outdoor backpack for adventure",
+          "image": "Image/messageImage_1698926382301_0",
+          "chain": "Off",
+          "type": "Backpack"
+        },
+        {
+          "name": "Backpack 3",
+          "rarity": "N",
+          "collection": "None",
+          "description": "Casual backpack for everyday use",
+          "image": "Image/messageImage_1698926385551_0",
+          "chain": "On",
+          "type": "Backpack"
+        },
+        {
+          "name": "Backpack 4",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "Another casual backpack for everyday use",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "Off",
+          "type": "Backpack"
+        }
+      ]
+    },
+    "Shoes": {
+      "items": [
+        {
+          "name": "Shoes 1",
+          "rarity": "N",
+          "collection": "Ultra Collection",
+          "description": "Sporty shoes for athletic activities",
+          "image": "Image/messageImage_1698852965739",
+          "chain": "On",
+          "type": "Shoes"
+        },
+        {
+          "name": "Shoes 2",
+          "rarity": "R",
+          "collection": "Early Bird Quest",
+          "description": "Casual shoes for everyday wear",
+          "image": "Image/messageImage_1698926367680_0",
+          "chain": "Off",
+          "type": "Shoes"
+        },
+        {
+          "name": "Shoes 3",
+          "rarity": "SR",
+          "collection": "None",
+          "description": "Special shoes for special occasions",
+          "image": "Image/messageImage_1698926385551_0",
+          "chain": "On",
+          "type": "Shoes"
+        },
+        {
+          "name": "Shoes 4",
+          "rarity": "SSR",
+          "collection": "Ultra Collection",
+          "description": "Super rare shoes for collectors",
+          "image": "Image/messageImage_1698926373392_0",
+          "chain": "Off",
+          "type": "Shoes"
+        }
+      ]
+    }
+  }
+}
